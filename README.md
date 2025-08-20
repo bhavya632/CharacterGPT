@@ -46,4 +46,4 @@ We leverage a cleaned transcript dataset, format dialogue into conversational co
 
 ___
 
-_I hope you found this project interesting! If you want to look at a more detailed report, please refer to - https://github.com/bhavya632/CharacterGPT/blob/630ace377c77223c54aaa72765053a257b4e0af9/CharacterGPT/Final_Report.pdf._
+_I hope you found this project interesting! If you want to look at a more detailed report, please refer to - https://github.com/bhavya632/CharacterGPT/blob/8702d38dc9aa3c894afc9864e1d8648c9245825b/CharacterGPT/Final_Report.pdf._
