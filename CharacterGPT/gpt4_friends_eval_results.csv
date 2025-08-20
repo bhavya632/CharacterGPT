@@ -1,0 +1,47 @@
+character,ground_truth_line,gpt_response,cosine_similarity,sentiment_label,sentiment_score
+Rachel,"Well do you get to look through one of those like, those periscope thingys.","Oh, sweetie, I totally get it. I mean, even my hair has bad days, and let me tell you, that's saying something. So, here’s the plan: Let’s pretend we’re in a really bad rom-com where you’re the star. You’re walking down the street, looking fabulous, and then—whoops!—you spill coffee all over your new outfit. But instead of freaking out, you just laugh it off, and a dashing stranger comes over to help you clean up. You two share a little flirty banter, and suddenly, your day isn’t so bad anymore.
+
+Like, can we get a montage of all the best moments of your day? Because I assure you, nothing makes a",0.07424411177635193,POSITIVE,0.9922635555267334
+Ross,"I can do that. Oh-oh, what if she gets upset?","Oh, no! A bad day? Did you accidentally step on a crack and break your mother’s back? Because that’s the only way I could see it being worse. But hey, let’s do something about that! 
+
+How about a little dinosaur trivia? Because nothing screams happiness quite like prehistoric reptiles, am I right? Did you know that the T-Rex’s arms were so tiny, it probably couldn’t even give a proper high-five? That’s right, folks, the ultimate predator was like, “You guys—don’t leave me hanging!”
+
+Or, we could just talk about how your day could probably get worse. You know, like getting stuck in an elevator with a mime or something. So, what’s been going on",0.1881510466337204,NEGATIVE,0.9966397285461426
+Monica,"No that is not what happened with us. Well, I was umm, I was really sad that night because this guy that I was Ross's mom.","Oh, sweetie, I'm so sorry to hear that! You know what they say, when life gives you lemons, you make a lemon meringue pie! Or you just sit in your sweats and eat ice cream... which, honestly, sounds way more appealing right now.
+
+But let's focus on the positives! Remember that time Ross tried to impress a girl by playing the bagpipes? Yeah, you could be a bagpipe player right now. So... hey, at least you're not that! 
+
+And if all else fails, just imagine me doing my famous “I KNOW” dance, because that's sure to put a smile on your face. Now, how can I assist in turning this day around? Do you need an inappropriate joke,",0.40399858355522156,POSITIVE,0.7677202820777893
+Monica,"Honey, you're not pathetic, you're sad.","Oh, sweetie, I'm so sorry you're having a bad day. But let's be real, even Ross was married three times and he still got through it. So, you’re already ahead of the game!
+
+Okay, let me ask you this: on a scale from one to how many times I've accidentally swept the floor and knocked over a whole stack of magazines, how bad is it? Because if it’s just a bad hair day, I can lend you my headband that holds everything in place...including our sanity.
+
+But hey, I’ve got a fantastic mood-lifter: picture me dancing around in the kitchen, cooking up a storm while singing ""I Will Survive."" Just imagine that glorious image. See? Instant giggles! Come",0.2507922947406769,POSITIVE,0.9902034997940063
+Chandler,"Well it couldn't have been worse. A woman literally passed through me. OK, so what is it, am I hideously unattractive?","Oh, I’m so sorry to hear that! You know, I tried to be a pep talk coach once, but let’s just say my students preferred the silence of an empty room. So, how about this: I can’t give you a pep talk, but I can offer some classic Chandler sarcasm! 
+
+Why did the scarecrow win an award? Because he was outstanding in his field! 
+
+(And let’s be honest, if I had a field, I’d probably just stand there awkwardly too.) 
+
+But seriously, bad days are like bad hair - sometimes you just have to power through until it gets better. Or you could just wear a hat. HATS FOR EVERYONE!",0.07544402033090591,NEGATIVE,0.998304009437561
+Phoebe,"Wait, you know what, I got a little story. When I was in Junior High School I went through this period where I thought I was a witch. And there was this guidance counselor who said something to me, that I think will help you a lot. He said okay, 'you're not a witch you're just an average student.' See what I'm saying?","Oh honey, bad days are like the soup du jour at a diner—everyone has ’em and they’re usually lukewarm. But let’s spice it up! Imagine this: a parade of tiny penguins wearing top hats and monocles, waddling ceremoniously down your street, holding signs that say “You’re awesome!” and “Free cupcakes!” 
+
+If that doesn’t work, here’s a song to perk you up: *“Smelly Cat, Smelly Cat, what are they feeding you?”* It’s a classic! Just remember, bad days are like old CDs—they eventually get scratched, skipped, and then you find a shiny new one. So hang in there! ",-0.03247078135609627,POSITIVE,0.9894110560417175
+Chandler,You put your fist through the wall?,"Oh sure, because nothing says “let’s cheer someone up” like a guy whose best skill is avoiding any responsibility... and making awkward jokes! But hey, let’s give it a shot. 
+
+Why did the coffee file a police report? Because it got mugged! 
+
+See? Now your day is looking better because you’re thinking, “At least I’m not that coffee!” You want more? Or are we just going to sit here wallowing in emotional slush like a couple of frozen yogurt cups?",0.12991370260715485,NEGATIVE,0.999242901802063
+Ross,"Well, you know what... I-I'm sorry I'm the only one who isn't in love with Gary Poppins out there... But I just... I can't... I can't go through with this.","Oh, wow, a bad day? That's like saying I'm just “okay” at paleontology! Okay, how about this: imagine if dinosaurs had a bad day! Like, they’re just sitting there, trying to eat a nice salad, and suddenly—bam! Meteor! Talk about your worst day ever. 
+
+But hey, if they can get through extinction, you can get through whatever's bugging you right now. Plus, I mean, you could always rewatch some old episodes of ""Friends"" and see my charming face—seriously, who's having a bad day while looking at this? (Flashes awkward smile) 
+
+And if that doesn't work, how about we have some coffee and talk it out? Because, let's face",0.1805141121149063,NEGATIVE,0.996180534362793
+Phoebe,Not that way! But the bike brought you a lot closer!,"Oh no, a bad day? That’s like finding a vegan at an all-you-can-eat buffet! But fear not, my friend! Let’s sprinkle some Phoebe magic on this dish of sadness. 
+
+How about this: picture a giant cat in a tutu dancing on a rainbow—perfectly normal, right? Now, if that doesn’t work, I can sing you a song. Just tell me what you want it to be about… oh wait! How about the joys of eating pizza while covered in bubble wrap? (It’s a totally underrated experience.) 
+
+And remember, even on the worst days, there’s always a chance to trip on some crazy shoelaces and fall into a world of charming awkwardness! You got",0.17776204645633698,POSITIVE,0.9519882202148438
+Chandler,"Look, it's my wedding day okay? If you were getting married I would never do anything to upset you.","Oh, a bad day? Well, join the club. I can give you a whole list of my bad days—should I start with the time I accidentally wore two different shoes to work? Spoiler alert: It was a great way to connect with my fellow awkward people! 
+
+But seriously, just think about how much worse it could be. At least you’re not stuck in a coffee shop with only Joey's “Acting” skills to entertain you. So, tell me what happened! Did your boss spill coffee on your report, or did your cat finally decide to audition for American Ninja Warrior by climbing the curtains?",0.19975318014621735,NEGATIVE,0.9964421391487122
